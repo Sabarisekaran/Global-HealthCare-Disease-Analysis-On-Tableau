@@ -1,5 +1,7 @@
-Global Healthcare Disease Analysis
-Overview
+Global Healthcare Disease Analysis  Overview
+
+
+
 The Global Healthcare Disease Analysis project aims to analyze and provide insights into the trends and patterns of global diseases. By leveraging large datasets and advanced analytics, this project highlights disease prevalence, mortality rates, healthcare infrastructure, and intervention outcomes across different regions of the world. The goal is to foster better healthcare policy decisions, resource allocation, and ultimately contribute to the global fight against diseases.
 
 Features
