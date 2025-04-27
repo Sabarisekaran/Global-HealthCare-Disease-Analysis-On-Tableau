@@ -1,6 +1,39 @@
 Global Healthcare Disease Analysis  Overview
 
+# 📊 Tableau Workbook: [Global Healthcare Disease Analysis]
 
+Welcome!  
+This project includes a Tableau workbook created using Tableau Public.
+
+Due to file size limits, the workbook is stored externally.
+
+---
+
+## 🚀 How to Access the Tableau Workbook:
+
+1. Click the download link below:
+   👉 [Download Workbook (.twbx)](https://drive.google.com/file/d/1Pe1vt2Zv3A1aJhbbfLLLseEw9n66hJk9/view?usp=drive_link)
+
+2. Once downloaded, open the `.twbx` file using **Tableau Public** (free) or **Tableau Desktop**.
+
+3. You can explore, modify, and publish the workbook as needed.
+
+---
+
+## 🛠 Requirements:
+
+- **Tableau Public** (Free) — [Download here](https://public.tableau.com/en-us/s/download)
+
+or
+
+- **Tableau Desktop** (Paid) if you have access.
+
+---
+
+## ❓ Need Help?
+If you have any issues opening the workbook, feel free to create an issue or contact me.
+
+Email: sabarilkn57@gmal.com
 
 The Global Healthcare Disease Analysis project aims to analyze and provide insights into the trends and patterns of global diseases. By leveraging large datasets and advanced analytics, this project highlights disease prevalence, mortality rates, healthcare infrastructure, and intervention outcomes across different regions of the world. The goal is to foster better healthcare policy decisions, resource allocation, and ultimately contribute to the global fight against diseases.
 
